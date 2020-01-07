@@ -1,0 +1,9 @@
+POST https://localhost:8625/api/v1/GitInit
+
+{
+"URL": "https://github.com/emckirdy/dogforce/Test.git",
+"Deployment": "dogforce",
+"Username": "admin",
+"Password": "apple",
+"Force": true
+}
